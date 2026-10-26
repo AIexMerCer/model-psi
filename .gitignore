@@ -1,0 +1,18 @@
+# WorkBuddy internal
+.workbuddy-ai/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Excel test data (large mock files)
+实控人评分明细.xlsx
+季度PSI明细.xlsx
+22222.xlsx
+
+# OS
+Thumbs.db
+.DS_Store
